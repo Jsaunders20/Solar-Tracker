@@ -38,6 +38,58 @@ Installation
 	3.	Connect your hardware as described in the “Components” section.
 	4.	Upload the code to your Arduino board.
 
+#Parts List for Solar Tracking System
+
+Core Components
+	
+ 	1. 1x Arduino Uno R3
+	2. 2x 180° Servo Motors (5V)
+	3. 4x Small Solar Panels (5V)
+	4. 1x Breadboard or Protoboard
+	5. 1x 9V Battery + Battery Clip
+	6. 1x 5V Voltage Regulator
+
+Wiring Components
+
+	1. 22 AWG Wire (Multiple Colors)
+  		- Red for power
+   		- Black for ground
+   		- Various colors for signals
+	2. Male-to-Male Jumper Wires
+	3. Heat Shrink Tubing (Various Sizes)
+	4. Wire Ties for Cable Management
+
+3D Printed Parts
+	
+	1. Base Housing
+	2. Motor Mounting Bracket
+	3. Extension Arm
+	4. Solar Panel Array Frame
+	5. Cable Management Clips
+
+Hardware
+
+	1. Heat-Set Threaded Inserts (M3)
+	2. M3 Machine Screws (Various Lengths)
+	3. M3 Washers
+	4. Servo Mounting Screws
+
+Tools Required
+
+	1. Soldering Iron with Temperature Control
+	2. Heat Gun (for heat shrink)
+	3. Wire Strippers
+	4. Small Phillips Screwdriver
+	5. Allen Key Set
+	6. Multimeter
+
+Optional/Recommended
+	
+ 	1. Electrical Tape
+	2. Strain Relief Clips
+	3. Spare Wires and Connectors
+	4. Wire Labels
+	5. Extra Heat-Set Inserts (for practice)
 Usage
 
 	1.	Ensure the light sensors are correctly calibrated for the expected light intensity range.
