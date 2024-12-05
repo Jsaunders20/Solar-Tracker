@@ -38,7 +38,7 @@ Installation
 	3.	Connect your hardware as described in the “Components” section.
 	4.	Upload the code to your Arduino board.
 
-#Parts List for Solar Tracking System
+Parts List for Solar Tracking System
 
 Core Components
 	
@@ -59,7 +59,7 @@ Wiring Components
 	3. Heat Shrink Tubing (Various Sizes)
 	4. Wire Ties for Cable Management
 
-3D Printed Parts
+3D Printed Parts (cad_components_fusion360.f3z)
 	
 	1. Base Housing
 	2. Motor Mounting Bracket
